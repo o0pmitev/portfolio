@@ -14,6 +14,7 @@ $(document).ready(function(){
   });
 });
 
+// hide navbar 
 $(function() {
   $('.nav-item a').on('click', function(){ 
       if($('.navbar-toggler').css('display') !='none'){
@@ -21,4 +22,3 @@ $(function() {
       }
   });
 });
-

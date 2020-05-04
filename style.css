@@ -436,3 +436,7 @@ footer {
 .row-defauts {
   margin: 0;
 }
+
+.wrapper {
+  margin: 0 auto;
+}

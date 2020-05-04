@@ -219,12 +219,14 @@ hr {
   font-size: 2rem;
 }
 
-.button-contact-me:hover,
-.button-contact-me:focus {
-  color: #389cda;
-  transition: color 600ms;
-  -webkit-transition: color 600ms;
+
+.button-contact-me-color {
+  transition: color 200ms;
+  color:#389cda;
+
 }
+
+
 
 .contact {
   width: 100%;

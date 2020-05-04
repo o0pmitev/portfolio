@@ -22,3 +22,7 @@ $(function() {
       }
   });
 });
+
+setInterval(function() {
+  $('.blink').toggleClass('button-contact-me-color');
+}, 1000);

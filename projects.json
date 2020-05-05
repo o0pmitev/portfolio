@@ -1,0 +1,32 @@
+ [
+  {
+    "projectTitle": "Weather APP",
+    "projectDescription": "lorem impsum",
+    "image": "randomHeroGenerator.png"
+  },
+  {
+    "projectTitle": "Tribute Page",
+    "projectDescription": "lorem impsum",
+    "image": "randomHeroGenerator.png"
+  },
+  {
+    "projectTitle": "Fan Page",
+    "projectDescription": "lorem impsum",
+    "image": "randomHeroGenerator.png"
+  },
+  {
+    "projectTitle": "FrontEndMentor",
+    "projectDescription": "lorem impsum",
+    "image": "randomHeroGenerator.png"
+  },
+  {
+    "projectTitle": "Random Hero Generator",
+    "projectDescription": "Fun little app build in Ruby on Rails, which generates random images and texts ",
+    "image": "randomHeroGenerator.png"
+  },
+  {
+    "projectTitle": "Random Hero Generator",
+    "projectDescription": "lorem impsum",
+    "image": "randomHeroGenerator.png"
+  }
+]

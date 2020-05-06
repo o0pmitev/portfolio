@@ -30,10 +30,16 @@
     "url" : "https://nifty-mcclintock-b8234e.netlify.app/"
   },
   {
+    "projectTitle": "JavaScript Animation",
+    "projectDescription": "HTML, CSS, JavaScript",
+    "image": "js-animation.png",
+    "url" : "https://o0pmitev.github.io/js_animation/"
+  },
+  {
     "projectTitle": "Random Hero Generator",
     "projectDescription": "HTML, CSS, Bootstrap, Ruby, Ruby on Rails",
     "image": "randomHeroGenerator.png",
-    "url" : "https://o0pmitev.github.io/disturbedTributePage/"
+    "url" : "https://rails-random-generator.herokuapp.com/"
   },
   {
     "projectTitle": "Rails Blog",
@@ -42,7 +48,7 @@
     "url" : "https://pm-blog-rails-app.herokuapp.com/"
   },
   {
-    "projectTitle": "Checklist with login",
+    "projectTitle": "Rails Checklist",
     "projectDescription": "HTML, CSS, Bootstrap, Ruby, Ruby on Rails",
     "image": "todo-list-with-login.png",
     "url" : "https://ancient-hollows-60281.herokuapp.com/"

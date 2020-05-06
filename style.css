@@ -177,7 +177,8 @@ hr {
 /* animation colors */
 
 .card-img {
-  filter: brightness(70%);
+  filter: brightness(30%);
+  transition: 1s;
 }
 
 .brighter {
@@ -506,3 +507,11 @@ footer {
 }
 
 
+@media(min-width: 1200px) {
+  .card-title {
+    font-size: 1.5rem;
+  }
+  .card-text {
+    font-size: 1rem;
+  }
+}

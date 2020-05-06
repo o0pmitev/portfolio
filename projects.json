@@ -24,15 +24,27 @@
     "url" : "https://hungry-poincare-b63abf.netlify.app/"
   },
   {
+    "projectTitle": "Portfolio Website",
+    "projectDescription": "HTML, CSS",
+    "image": "portfolio-website.png",
+    "url" : "https://nifty-mcclintock-b8234e.netlify.app/"
+  },
+  {
     "projectTitle": "Random Hero Generator",
     "projectDescription": "HTML, CSS, Bootstrap, Ruby, Ruby on Rails",
     "image": "randomHeroGenerator.png",
     "url" : "https://o0pmitev.github.io/disturbedTributePage/"
   },
   {
-    "projectTitle": "Portfolio Website",
-    "projectDescription": "HTML, CSS",
-    "image": "portfolio-website.png",
-    "url" : "https://nifty-mcclintock-b8234e.netlify.app/"
+    "projectTitle": "Rails Blog",
+    "projectDescription": "HTML, CSS, Ruby, Ruby on Rails, Bulma",
+    "image": "blog-app-rails.png",
+    "url" : "https://pm-blog-rails-app.herokuapp.com/"
+  },
+  {
+    "projectTitle": "Checklist with login",
+    "projectDescription": "HTML, CSS, Bootstrap, Ruby, Ruby on Rails",
+    "image": "todo-list-with-login.png",
+    "url" : "https://ancient-hollows-60281.herokuapp.com/"
   }
 ]

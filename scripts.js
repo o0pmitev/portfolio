@@ -40,7 +40,7 @@ fetch(fetchUrl)
   data.forEach(element => {
     const projectTemplate =
     `<div class="projects-wrapper">
-      <a href="#" class="image-link"target="_blank">
+      <a href="${element.url}" class="image-link"target="_blank">
         <div class="card">              
           <img src="img/${element.image}" class="card-img" alt="...">              
           <div class="card-img-overlay">
@@ -56,19 +56,24 @@ fetch(fetchUrl)
   // Animate cards 
   const getCard = document.querySelectorAll('.projects-wrapper');
   const getText = document.querySelectorAll('.card-text');
+  const getImage = document.querySelectorAll('.card-img');
+  const getTitle = document.querySelectorAll('.card-title');
 
-  // Hide Show project description
+  // Animate project cards on hover
   getCard.forEach((element,index) => {
     element.addEventListener('mouseenter', function(){ 
         getText[index].classList.add('show');   
-        getText[index].classList.remove('hidden');        
+        getText[index].classList.remove('hidden'); 
+        getImage[index].classList.add('brighter');   
+        getTitle[index].classList.add('hover-title');  
      })
     element.addEventListener('mouseleave', function() {
       getText[index].classList.remove('show');        
-      getText[index].classList.add('hidden');        
+      getText[index].classList.add('hidden');
+      getImage[index].classList.remove('brighter');       
+      getTitle[index].classList.remove('hover-title');  
     })
   })
 });
-
 
 

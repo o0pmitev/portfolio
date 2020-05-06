@@ -158,23 +158,37 @@ hr {
 .card-img-overlay {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 .card-title {
   color: var(--main-light-color);
+  text-shadow:1px 1px var(--light-blue-color);
   font-weight: 900;
   font-size: 1.5rem;
   padding-top: .2em;
 }
+.hover-title {
+  color: var(--carousel-caption-color);
+  text-shadow:1px 1px var(--main-dark-color);
+
+}
+
+/* animation colors */
 
 .card-img {
-  filter: brightness(80%);
+  filter: brightness(70%);
+}
+
+.brighter {
+  filter: brightness(100%)
 }
 
 .card-text {
     font-family: 'Audiowide',serif;
     font-weight: 400;
+    color: var(--carousel-caption-color);
+    text-shadow:1px 1px var(--main-dark-color);
 }
 
 .hidden {

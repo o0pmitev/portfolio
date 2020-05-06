@@ -1,32 +1,38 @@
  [
   {
     "projectTitle": "Weather APP",
-    "projectDescription": "lorem impsum",
-    "image": "randomHeroGenerator.png"
+    "projectDescription": "HTML, CSS, Bootstrap, JavaScript",
+    "image": "weather-app.png",
+    "url" : "https://o0pmitev.github.io/weatherAPP/"
   },
   {
     "projectTitle": "Tribute Page",
-    "projectDescription": "lorem impsum",
-    "image": "randomHeroGenerator.png"
+    "projectDescription": "HTML, CSS",
+    "image": "tribute-page.png",
+    "url" : "https://o0pmitev.github.io/tribute-page/"
   },
   {
     "projectTitle": "Fan Page",
-    "projectDescription": "lorem impsum",
-    "image": "randomHeroGenerator.png"
+    "projectDescription": "HTML, CSS, JavaScript, Handlebars",
+    "image": "fan-page.png",
+    "url" : "https://o0pmitev.github.io/disturbedTributePage/"
   },
   {
     "projectTitle": "FrontEndMentor",
-    "projectDescription": "lorem impsum",
-    "image": "randomHeroGenerator.png"
+    "projectDescription": "HTML, CSS",
+    "image": "front-end-mentor-task1.png",
+    "url" : "https://hungry-poincare-b63abf.netlify.app/"
   },
   {
     "projectTitle": "Random Hero Generator",
-    "projectDescription": "Fun little app build in Ruby on Rails, which generates random images and texts ",
-    "image": "randomHeroGenerator.png"
+    "projectDescription": "HTML, CSS, Bootstrap, Ruby, Ruby on Rails",
+    "image": "randomHeroGenerator.png",
+    "url" : "https://o0pmitev.github.io/disturbedTributePage/"
   },
   {
-    "projectTitle": "Random Hero Generator",
-    "projectDescription": "lorem impsum",
-    "image": "randomHeroGenerator.png"
+    "projectTitle": "Portfolio Website",
+    "projectDescription": "HTML, CSS",
+    "image": "portfolio-website.png",
+    "url" : "https://nifty-mcclintock-b8234e.netlify.app/"
   }
 ]
